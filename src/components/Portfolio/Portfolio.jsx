@@ -86,3 +86,6 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
+// link to the mockups
+// https://www.figma.com/file/whw3d38QfSxNVq65okd9Jj/Free-iMac-Mockup-(Community)?type=design&node-id=0-37&t=0LbvwQEhyVUhENUU-0
