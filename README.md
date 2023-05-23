@@ -21,4 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Enjoy!
 
 
-[![Demo](https://streamable.com/5xptdr)](https://streamable.com/5xptdr)
+[![Demo](https://master--bespoke-kataifi-efd838.netlify.app/#contact)]([https://streamable.com/5xptdr](https://master--bespoke-kataifi-efd838.netlify.app/#contact))
+https://master--bespoke-kataifi-efd838.netlify.app/#contact
